@@ -1,0 +1,19 @@
+header a {
+    color: var(--header-menu-text-color);
+}
+
+.header-inner {
+    color: var(--header-menu-text-color);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.header-inner li, .header-inner ul {
+    font-weight: 600;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5px;
+}
