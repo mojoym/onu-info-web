@@ -1,0 +1,17 @@
+.main-block__table {
+    padding: 20px 0px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(1, 50px);
+}
+
+.main-block__table div {
+    display: flex;
+    background-color: var(--table-background-color);
+    border: 1px solid var(--table-border-color);
+    padding: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}

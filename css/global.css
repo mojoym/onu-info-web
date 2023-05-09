@@ -12,6 +12,8 @@
     --header-background-color: #000000;
     --header-menu-text-color: #888;
     --logo-background-color: #438FE6;
+    --table-border-color: #76B0E6;
+    --table-background-color: lightblue;
     --header-title-font-family: 'Playfair Display', serif;
     font-family: 'Roboto', sans-serif;
     scroll-behavior: smooth;
